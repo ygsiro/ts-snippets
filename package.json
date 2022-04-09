@@ -1,8 +1,9 @@
 {
     "name": "ts-snippets",
     "displayName": "ts-snippets",
-    "description": "",
+    "description": "typescript snippets",
     "version": "0.0.1",
+    "publisher": "ygsiro",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -21,5 +22,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/ygsiro/ts-snippets.git"
-    }
+    },
+    "preview": true
 }
