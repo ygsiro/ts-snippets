@@ -2,7 +2,7 @@
     "name": "ts-snippets",
     "displayName": "ts-snippets",
     "description": "typescript snippets",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "ygsiro",
     "engines": {
         "vscode": "^1.66.0"

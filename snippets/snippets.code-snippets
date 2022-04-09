@@ -8,5 +8,26 @@
       "};"
     ],
     "description": "allow function"
+  },
+  "simple allow function":{
+    "scope": "typescript",
+    "prefix": "alw:s",
+    "body": "const ${1:func_name} = (${2:args}) => ${3:expression};"
+  },
+  "try catch finally":{
+    "scope": "typescript",
+    "prefix": "fin",
+    "body": [
+      "finally {",
+      "  $0",
+      "}"
+    ],
+    "description": "Insert after try-catch statement"
+  },
+  "function type declaration":{
+    "scope": "typescript",
+    "prefix": "type:f",
+    "body": "type ${1:type_name} = (${2:arg}:${3:arg_type}) => ${4:return_type};",
+    "description": "function type declaration"
   }
 }
