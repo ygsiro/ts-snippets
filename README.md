@@ -44,3 +44,5 @@ type $type_name = typeof $existing_function_name;
 ```
 
 - `fin` - Insert after try-catch statement
+- `cls` - class
+- `cls:e` - Inherited Class

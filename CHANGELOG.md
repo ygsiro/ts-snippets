@@ -26,3 +26,8 @@
 ### Added-0.0.5
 
 - `type:e` - Function type declaration with Existing Functions
+
+### Added-0.0.6
+
+- `cls` - typescript class
+- `cls:e` - Inherited Classes
