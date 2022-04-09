@@ -10,6 +10,10 @@
     "categories": [
         "Snippets"
     ],
+    "keywords": [
+        "Typescript",
+        "Snippets"
+    ],
     "icon": "images/ts.png",
     "contributes": {
         "snippets": [
@@ -23,5 +27,6 @@
         "type": "git",
         "url": "https://github.com/ygsiro/ts-snippets.git"
     },
-    "preview": true
+    "preview": true,
+    "license": "LICENSE"
 }
