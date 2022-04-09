@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+ width="256" height="256"
+ viewBox="2 2 512 512">
+ <title>Typescript snippets logo</title>
+ <path d="M120,0H512V512H0V200Z" fill="#335" />
+ <path d="M120,0 190,119 0,200Z" fill="#223" />
+ <path d="M120,0 190,110 0,200V512H512V0H120" fill="none" stroke="#335" stroke-width="6"/>
+ <text x="130" y="460" fill="#fff" font-family="游ゴシック" font-size="260" font-weight="bold">TS</text>
+</svg>

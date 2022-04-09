@@ -1,0 +1,21 @@
+{
+    "name": "ts-snippets",
+    "displayName": "ts-snippets",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "icon": "images/ts.png",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
