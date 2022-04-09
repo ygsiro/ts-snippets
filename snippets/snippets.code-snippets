@@ -82,6 +82,16 @@
     ],
     "description": "abstruct class"
   },
+  "Class that implements the interface":{
+    "scope": "typescript",
+    "prefix": "cls:i",
+    "body": [
+      "class ${1:class_name} implements ${2:interface_name}${3:,next_interface(option)}{",
+      "  $0",
+      "}"
+    ],
+    "description": "Class that implements the interface"
+  },
   "instanceof":{
     "scope": "typescript",
     "prefix": "instanceof",

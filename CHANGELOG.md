@@ -43,3 +43,7 @@
 ### Added-0.0.9
 
 - `interface` - interface
+
+### Added-0.0.10
+
+- `cls:i` - Class that implements the interface

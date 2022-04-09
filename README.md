@@ -13,5 +13,6 @@ A collection of snippets from Typescript.
 - `cls` - class
 - `cls:e` - Inherited Class
 - `cls:a` - abstruct class
+- `cls:i` - Class that implements the interface
 - `instanceof` - instanceof
 - `interface` - interface
