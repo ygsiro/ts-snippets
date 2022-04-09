@@ -16,5 +16,9 @@
 
 ### Added-0.0.3
 
-- `type:f` - function type declaration
+- `type:f` - function type declaration with function syntax
 - `alw:s` - simple allow function(one line)
+
+### Added-0.0.4
+
+- `type:m` - function type declaration with method syntax
