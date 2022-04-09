@@ -31,3 +31,7 @@
 
 - `cls` - typescript class
 - `cls:e` - Inherited Classes
+
+### Added-0.0.7
+
+- `instanceof` - instanceof

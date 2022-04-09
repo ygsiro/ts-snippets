@@ -69,5 +69,11 @@
       "}"
     ],
     "description": "typescript class"
+  },
+  "instanceof":{
+    "scope": "typescript",
+    "prefix": "instanceof",
+    "body": "${1:child_class} instanceof ${2:parent_class}",
+    "description": "instanceof"
   }
 }
