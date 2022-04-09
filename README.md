@@ -36,4 +36,11 @@ type $type_name = {
 };
 ```
 
+- `type:e` - Function type declaration with Existing Functions
+
+```typescript
+// $ = place holder
+type $type_name = typeof $existing_function_name;
+```
+
 - `fin` - Insert after try-catch statement

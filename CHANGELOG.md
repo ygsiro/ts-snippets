@@ -22,3 +22,7 @@
 ### Added-0.0.4
 
 - `type:m` - function type declaration with method syntax
+
+### Added-0.0.5
+
+- `type:e` - Function type declaration with Existing Functions

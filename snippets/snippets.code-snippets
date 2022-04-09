@@ -39,5 +39,11 @@
       "};"
     ],
     "description": "Function type declaration with method syntax"
+  },
+  "Function type declaration with Existing Functions":{
+    "scope": "typescript",
+    "prefix": "type:e",
+    "body": "type ${1:type_name} = typeof ${existing_function_name};",
+    "description": "Function type declaration with Existing Functions"
   }
 }
