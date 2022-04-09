@@ -1,3 +1,12 @@
 {
-    
+  "allow function": {
+    "scope": "typescript",
+    "prefix": "alw",
+    "body": [
+      "const ${1:func_name} = (${2:args}): ${3:type} => {",
+      "  ${3/void|any|(.+)/${1:+return }/}${0:;}",
+      "};"
+    ],
+    "description": "allow function"
+  }
 }
