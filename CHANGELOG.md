@@ -35,3 +35,7 @@
 ### Added-0.0.7
 
 - `instanceof` - instanceof
+
+### Added-0.0.8
+
+- `cls:a` - abstruct class

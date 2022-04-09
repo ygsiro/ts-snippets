@@ -70,6 +70,18 @@
     ],
     "description": "typescript class"
   },
+  "abstruct class":{
+    "scope": "typescript",
+    "prefix": "cls:a",
+    "body": [
+      "abstruct class ${1:class_name}{",
+      "  constructor(${2:args}){",
+      "  }",
+      "  abstruct ${3:function_name}(): ${4:return_type};",
+      "}"
+    ],
+    "description": "abstruct class"
+  },
   "instanceof":{
     "scope": "typescript",
     "prefix": "instanceof",
