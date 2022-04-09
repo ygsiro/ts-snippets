@@ -39,3 +39,7 @@
 ### Added-0.0.8
 
 - `cls:a` - abstruct class
+
+### Added-0.0.9
+
+- `interface` - interface

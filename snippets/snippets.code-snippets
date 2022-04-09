@@ -87,5 +87,15 @@
     "prefix": "instanceof",
     "body": "${1:child_class} instanceof ${2:parent_class}",
     "description": "instanceof"
+  },
+  "interface":{
+    "scope": "typescript",
+    "prefix": "interface",
+    "body": [
+      "interface ${1:interface_name}{",
+      "  ${2:function_name}(): ${3:return_type};",
+      "}"
+    ],
+    "description": "interface"
   }
 }
