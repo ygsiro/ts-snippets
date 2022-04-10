@@ -17,3 +17,4 @@ A collection of snippets from Typescript.
 - `instanceof` - instanceof
 - `interface` - interface
 - `typeof` - typeof
+- `keyof` - keyof

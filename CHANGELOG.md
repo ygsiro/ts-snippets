@@ -55,3 +55,7 @@
 ### Added-0.0.12
 
 - `typeof` - typeof
+
+### Added-0.0.14
+
+- `keyof` - keyof

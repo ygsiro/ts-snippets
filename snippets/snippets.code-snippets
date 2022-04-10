@@ -113,5 +113,11 @@
     "prefix": "typeof",
     "body": "type ${1:new_type} = typeof ${2:variable};",
     "description": "typeof"
-  }
+  },
+  "keyof":{
+    "scope": "typescript",
+    "prefix": "keyof",
+    "body": "type ${1:new_type} = keyof ${2:type};",
+    "description": "typeof"
+  },
 }
