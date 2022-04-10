@@ -118,6 +118,6 @@
     "scope": "typescript",
     "prefix": "keyof",
     "body": "type ${1:new_type} = keyof ${2:type};",
-    "description": "typeof"
+    "description": "keyof"
   },
 }
