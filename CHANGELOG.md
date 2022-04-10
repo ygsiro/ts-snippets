@@ -51,3 +51,7 @@
 ### Changed-0.0.11
 
 - `interface` - Add inheritance as an option
+
+### Added-0.0.12
+
+- `typeof` - typeof

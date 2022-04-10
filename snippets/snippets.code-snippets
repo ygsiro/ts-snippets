@@ -107,5 +107,11 @@
       "}"
     ],
     "description": "interface"
+  },
+  "typeof":{
+    "scope": "typescript",
+    "prefix": "typeof",
+    "body": "type ${1:new_type} = typeof ${2:variable};",
+    "description": "typeof"
   }
 }

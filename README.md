@@ -16,3 +16,4 @@ A collection of snippets from Typescript.
 - `cls:i` - Class that implements the interface
 - `instanceof` - instanceof
 - `interface` - interface
+- `typeof` - typeof
