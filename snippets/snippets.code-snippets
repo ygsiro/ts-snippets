@@ -102,8 +102,8 @@
     "scope": "typescript",
     "prefix": "interface",
     "body": [
-      "interface ${1:interface_name}{",
-      "  ${2:function_name}(): ${3:return_type};",
+      "interface ${1:interface_name} ${2:extends ${3:parent_interface(option)}}{",
+      "  ${4:function_name}(): ${5:return_type};",
       "}"
     ],
     "description": "interface"

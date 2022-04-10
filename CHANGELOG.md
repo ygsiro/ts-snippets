@@ -47,3 +47,7 @@
 ### Added-0.0.10
 
 - `cls:i` - Class that implements the interface
+
+### Changed-0.0.11
+
+- `interface` - Add inheritance as an option
